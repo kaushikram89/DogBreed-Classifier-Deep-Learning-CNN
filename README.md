@@ -10,9 +10,9 @@ This project is part of Udacity deep learning course to identify dog breeds on a
 	```cd DogBreed-Classifier-Deep-Learning-CNN```
 
 
-2. Download the [dog](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip) datasetDownload the dog datase. Unzip the folder and place it in this project's home directory, at the location /dog_images
+2. Download the [dog](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip) datasetDownload the dog datase. Unzip the folder and place it in this project's home directory, at the location data/dog_images
 
-3. Download the [human](http://vis-www.cs.umass.edu/lfw/lfw.tgz) dataset. Unzip the folder and place it in the home directory, at location /lfw. If you are using a Windows machine, you are encouraged to use 7zip to extract the folder.
+3. Download the [human](http://vis-www.cs.umass.edu/lfw/lfw.tgz) dataset. Unzip the folder and place it in the home directory, at location data/lfw. If you are using a Windows machine, you are encouraged to use 7zip to extract the folder.
 
 4. Open a terminal window and navigate to the project folder. Type in the terminal 
 ```jupyter notebook dog_app.ipynb``` to open the notebook.
