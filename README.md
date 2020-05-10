@@ -3,8 +3,6 @@
 # Introduction
 This project is part of Udacity deep learning course to identify dog breeds on a set of dog images. The network also differentiates humans from dogs.
 
-#### [Udacity github repo](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classification)
-
 # Instructions
 1. Clone the repository and navigate to the downloaded folder.
 
@@ -18,3 +16,10 @@ This project is part of Udacity deep learning course to identify dog breeds on a
 
 4. Open a terminal window and navigate to the project folder. Type in the terminal 
 ```jupyter notebook dog_app.ipynb``` to open the notebook.
+
+5. My saved models are in the saved_models folder. 
+
+# Acknowledgement
+
+Thanks to Udacity for the dataset and course material. <br>
+[Udacity github repo](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classification)
